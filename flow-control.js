@@ -41,5 +41,6 @@ function switchAge(age) {
     case (age > 19):
       return "You have an age"
       break;
+    default:
   }
 }
